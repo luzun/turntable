@@ -94,6 +94,7 @@ p,li,b,span,div,strong,h1,h2,h3,h4,h5,h6,a,ul{
     background-image: url(../imgs/lotteryBtn.png);
     background-size: auto 5rem;
     background-repeat: no-repeat;
+    cursor: pointer;
 }
 .box .inner.start:active{
 
